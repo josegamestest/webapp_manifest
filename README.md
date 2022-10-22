@@ -14,10 +14,10 @@ manifesto para weapp
     <meta name="short_name" content="josegamestest">
     
     
-    <link rel="icon" sizes="16x16" href="icons/icons-vector.svg">
-    <link rel="icon" sizes="32x32" href="icons/icons-vector.svg">
-    <link rel="icon" sizes="48x48" href="icons/icons-vector.svg">
-    <link rel="icon" sizes="512x512" href="icons/icons-vector.svg">
+    <link rel="icon" sizes="16x16" href="https://github.com/josegamestest/webapp_manifest/blob/main/icons/icons-vector.svg">
+    <link rel="icon" sizes="32x32" href="https://github.com/josegamestest/webapp_manifest/blob/main/icons/icons-vector.svg">
+    <link rel="icon" sizes="48x48" href="https://github.com/josegamestest/webapp_manifest/blob/main/icons/icons-vector.svg">
+    <link rel="icon" sizes="512x512" href="https://github.com/josegamestest/webapp_manifest/blob/main/icons/icons-vector.svg">
   </head>
   <body>
     <h1>Josegamestest manifest</h1>
